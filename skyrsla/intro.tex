@@ -1,8 +1,28 @@
 \section{Inngangur}
-Hér skal gera lýsingu á verkefninu þ.e hvað,  hvernig og  hvaða forritunarmál, fyrir hverja og hvaða notagildi verkefnið hefur. Minnst 500 orð. Notagildi skiptir miklumáli, reynið að sjá fyrir ykkur hverjir geti notað vélmennið ykkar og í hvaða tilgangi.  Þá kemur í ljós að 500 orð er frekar lítið :-) Hér er gott að byrja á því að lesa til um Arduino en allt hjá þeim er open-sourse og svo er hægt að lesa sér til um efnið í útgefnum bókum sem "programming Arduino \cite{monk} Skoðið vel heimildaskrá og skránna mybib.bib. Hér er gott að lýsa högun kerfisins með orðum og mynd sem þið getið gert í draw.io sjá mynd: 
+Lestin Rocet!
 
-Skoðaði code complete /cite{mcconnell2004code}
-Svo er líka hægt að nota tilvitnanir í vef \cite{WinNT}
-\begin{figure}[h]
-\includegraphics[scale=.3]{img/system}
-\end{figure}
+Markmiðið er að hanna og framleiða lest sem er stírð af tölvu sem er ekki á lestini
+það gæti þarfnast töluverða vírs forritun til að gera þennan "draum" að veruleika.
+Við töldum okkur ekki ætlast að fara neit djúft í rafmags fræðina en hún kom til okkar.
+Við völdum þetta verk út frá ASDF movie "I like trains" og af því að Elon Musk er 
+fyrirmyndin okkar fyrir skrítna og sharmandi vinnuhætti sem allir geta nutið.
+Við áttuðum okkur seinna á því að við þurftum að forrita með vírnum frekar en tölvuni
+því að allt transmission til tölvulausu lestarinnar er í gegnum ein vír(tein) og 
+ein vír(tein) til að svara um skilavoðin sem fer beint í tölvuna,
+3 input og 1 output sem samsvarar áhveðnum skilirðum.
+Inputin geta verið eit af þrem skilaboðum sem er í raun bara áhveðin stór spenna
+eða ekki spenna, og outputið táknar alltaf bara hvort lestin sé á teinunum.
+Lestin er partur af closed circuit, um leið og lestin fer af teinunum verður 
+allt kerfið open circuit og er ekki lengur functional.
+Í hvert skifti sem lestin á að vera á ferð, er talvan að lesa á response'ið og 
+segja til um hvort allt er að virka eins og það á að gera samkvæmt áætlun.
+Hægt er að keyra lestina í ákveðin tíma eða (eins og við ætlum okkur) að keyra 
+þangað til að circuit'ið er rofið með (til dæmis) teipi eða öðrum plast einangrunum,
+með þessum hætti getum við sagt til um hvar lestin er þegar hún stríkur yfir, 
+aukalega væri hægt (með töluverði forritun) að senda skilaboð með rofningum
+eins og 2 rofningar í röð innan við 2 sekondur  til að merkja við stöð númer 2,
+eða ef nákvæmnin leifir það binary skilaboð eins og teip, ekki teip, teip, teip
+væri túlkað sem 1011 bin eða 11 desimal. með þessum hætti væri hægt að senda margvísleg
+og flókin skilaboð frá lestini til að segja til um hvað talvan á að gera.
+Við áttuðum okkur ekki á því hversu mikla vinnu við myndum þurfa að setja í vírin til
+að triggja það að allt rennur vel og smoothly, eingin of hitnun og svoleiðis.
