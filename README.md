@@ -1,4 +1,5 @@
 # rob2b3u
-Vélmenni II 
-seinni áfangi í vélmennum şar sem nemendur byggja og forrita vélmenni
-til ağ leysa hinar ımsu şrautir
+VÃ©lmenni II 
+seinni Ã¡fangi Ã­ vÃ©lmennum Ã¾ar sem nemendur byggja og forrita vÃ©lmenni
+til aÃ° leysa hinar Ã½msu Ã¾rautir
+hÃ¦
