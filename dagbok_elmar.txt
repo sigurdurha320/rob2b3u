@@ -1,0 +1,48 @@
+Dagur 1:
+kynning hjá kennara um áfangann og raspberry pi.
+aukalega var byrjað að vinna með raspberry pi umhverfið.
+
+Dagur 2: 
+haldið áfram var að fikta með smá verkefni í raspberry pi,
+til að venjast umhverfinu.
+
+Dagur 3:
+error 404 day not found
+
+dagur 4:
+við Sigurður hittumst fyrr í vikuni og ræddum hugmynd um lest,
+í tímanum var svo talað meira um það og hvernig við myndum vinna það verkefni.
+aukalega byrjuðum við að skoða hvernig við getum notað batterí með raspberry pi 
+og virkja motor.
+
+Dagur 5:
+Áframhald í víraþræðslu
+
+Dagur 6: 
+testing
+Ný vandamál komin
+*dekk ekki nægilega breið
+*hlðsla í dekkjamótor ekki heppinleg
+
+Dagur 7:
+Samsetning kláruð, þarf að fá logic gates á bread board
+
+Dagur 8:
+breyting á teinum, fækkað í tvo teina
+
+Dagur 9:
+Tími féll niður
+
+Dagur 10:
+Endurhönnun á öllum raftengningum
+
+Dagur 11:
+veikur
+
+Dagur 12:
+Unnið í Tinkercad á samsetningu
+
+Dagur 13:
+gerðum forrit sem fær response frá lestini, virkaði, mjög sáttir.
+
+
