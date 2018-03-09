@@ -1,0 +1,14 @@
+while true
+{
+    stop
+    for run 6 times
+    {
+        reverse=i%2
+        drive(reverse)
+        counter+=response
+    }
+    while respones
+    {
+        drive
+    }
+}
