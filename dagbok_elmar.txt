@@ -1,48 +1,48 @@
-Dagur 1:
-kynning hjá kennara um áfangann og raspberry pi.
-aukalega var byrjağ ağ vinna meğ raspberry pi umhverfiğ.
+ï»¿Dagur 1:
+kynning hjÃ¡ kennara um Ã¡fangann og raspberry pi.
+aukalega var byrjaÃ° aÃ° vinna meÃ° raspberry pi umhverfiÃ°.
 
 Dagur 2: 
-haldiğ áfram var ağ fikta meğ smá verkefni í raspberry pi,
-til ağ venjast umhverfinu.
+haldiÃ° Ã¡fram var aÃ° fikta meÃ° smÃ¡ verkefni Ã­ raspberry pi,
+til aÃ° venjast umhverfinu.
 
 Dagur 3:
 error 404 day not found
 
 dagur 4:
-viğ Sigurğur hittumst fyrr í vikuni og ræddum hugmynd um lest,
-í tímanum var svo talağ meira um şağ og hvernig viğ myndum vinna şağ verkefni.
-aukalega byrjuğum viğ ağ skoğa hvernig viğ getum notağ batterí meğ raspberry pi 
+viÃ° SigurÃ°ur hittumst fyrr Ã­ vikuni og rÃ¦ddum hugmynd um lest,
+Ã­ tÃ­manum var svo talaÃ° meira um Ã¾aÃ° og hvernig viÃ° myndum vinna Ã¾aÃ° verkefni.
+aukalega byrjuÃ°um viÃ° aÃ° skoÃ°a hvernig viÃ° getum notaÃ° batterÃ­ meÃ° raspberry pi 
 og virkja motor.
 
 Dagur 5:
-Áframhald í víraşræğslu
+Ãframhald Ã­ vÃ­raÃ¾rÃ¦Ã°slu
 
 Dagur 6: 
 testing
-Nı vandamál komin
-*dekk ekki nægilega breiğ
-*hlğsla í dekkjamótor ekki heppinleg
+NÃ½ vandamÃ¡l komin
+dekk ekki nÃ¦gilega breiÃ°
+hlÃ°sla Ã­ dekkjamÃ³tor ekki heppinleg
 
 Dagur 7:
-Samsetning kláruğ, şarf ağ fá logic gates á bread board
+Samsetning klÃ¡ruÃ°, Ã¾arf aÃ° fÃ¡ logic gates Ã¡ bread board
 
 Dagur 8:
-breyting á teinum, fækkağ í tvo teina
+breyting Ã¡ teinum, fÃ¦kkaÃ° Ã­ tvo teina
 
 Dagur 9:
-Tími féll niğur
+TÃ­mi fÃ©ll niÃ°ur
 
 Dagur 10:
-Endurhönnun á öllum raftengningum
+EndurhÃ¶nnun Ã¡ Ã¶llum raftengningum
 
 Dagur 11:
 veikur
 
 Dagur 12:
-Unniğ í Tinkercad á samsetningu
+UnniÃ° Ã­ Tinkercad Ã¡ samsetningu
 
 Dagur 13:
-gerğum forrit sem fær response frá lestini, virkaği, mjög sáttir.
+gerÃ°um forrit sem fÃ¦r response frÃ¡ lestini, virkaÃ°i, mjÃ¶g sÃ¡ttir.
 
 

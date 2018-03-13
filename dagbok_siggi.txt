@@ -1,8 +1,8 @@
 ﻿dagur 1:
 kynning áfanga frá kennara. Sturtað yfir man uplýsinga um:
-*rasperyPY
-*TexMaker
-*resistors
+rasperyPY
+TexMaker
+resistors
 aukalega far byrjað að fikta með rasberyPy umhverfið.
 
 dagur 2: 
@@ -11,9 +11,9 @@ fiktað var með sonar, feingum ekki útkomurnar sem við vildum.
 dagur 3:
 Elmar mætti ekki, svaf yfir sig
 komið fram með hugmyndir:
-*mezesolver
-*járnbrautalest (gerði flæði rit og útskíringar fyrir þetta)
-*2fast4U (gearbox)
+mezesolver
+járnbrautalest (gerði flæði rit og útskíringar fyrir þetta)
+2fast4U (gearbox)
 
 dagur 4:
 ransóknir með circtry varðandi rafhlöður og stjórn á hleðsluni.
@@ -24,16 +24,16 @@ dagur 5:
 
 dagur 6:
 fokk, ný vandarmál
-*dekk ekki nægilega breið
-*teingja hleðslu í lestamótorinn er ekki heppilegt
+dekk ekki nægilega breið
+teingja hleðslu í lestamótorinn er ekki heppilegt
 Lausnir: skifta um motor(Vex) og tengja með gírum.
 nýtt heimaverkefni:
-*samsetning á nýrri lest
+samsetning á nýrri lest
 
 dagur 7:
-*samansettning var kláruð með öllum moterfunctions
-*redisign'aði systemið þannig að breadbordið væri á lestini og bætti við einum tein í viðbót til að nota sem response tain (ground-output-input)
-*þarf að fá logic gates á breadbordið
+samansettning var kláruð með öllum moterfunctions
+redisign'aði systemið þannig að breadbordið væri á lestini og bætti við einum tein í viðbót til að nota sem response tain (ground-output-input)
+þarf að fá logic gates á breadbordið
 
 dagur 8: 
 Fækað eru teinonum aftur niður í 2 teina, input og output, þarf að nota groundið á rafhlöðuni.
@@ -49,7 +49,7 @@ unnið er á verkefna lýsingu
 
 dagur 12:
 skapað var hönnun 3 og 4
-3&4 eru að nota local cicle, 1 breadboard(ekki á lestinni)
+3 og 4 eru að nota local cicle, 1 breadboard(ekki á lestinni)
 3: notar Polar transistora
 4: notar nonPolar transistora
 
