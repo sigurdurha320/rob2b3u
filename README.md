@@ -5,4 +5,4 @@ til að leysa hinar ýmsu þrautir
 hæ
 
 
-reikningar : https://www.desmos.com/calculator/u4p1aizbtx
+reikningar : https://www.desmos.com/calculator/prnxmuev0u
