@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[icelandic]{babel}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{lipsum} 
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Vélmenni II (Seinna Verkefni)}
+\lhead{\begin{picture}(0,0) \put(0,0){\includegraphics[width=3cm]{img/tskoli}} \end{picture}}
+\lfoot{Robotic Arm}
+\rfoot{\thepage}
+\begin{document}
+\title{Vélmenni II (Seinna Verkefni)}
+\author{Elmar og Sigurður}
+\maketitle
+\begin{figure}[h]
+\centering
+\includegraphics[scale=.65]{img/tskoli}
+\includegraphics[scale=1]{img/rob2b3u_img}
+\end{figure}
+\newpage
+\tableofcontents
+\newpage
+\input{intro}
+\input{hardware}
+\input{timeplan}
+\input{sudo}
+\input{testing}
+\input{conclution}
+\newpage
+\end{document}

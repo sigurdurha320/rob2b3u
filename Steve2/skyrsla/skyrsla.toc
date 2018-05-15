@@ -1,0 +1,7 @@
+\babel@toc {icelandic}{}
+\contentsline {section}{\numberline {1}Inngangur}{3}
+\contentsline {section}{\numberline {2}V\IeC {\'e}lb\IeC {\'u}na\IeC {\dh }ur}{3}
+\contentsline {section}{\numberline {3}Verk\IeC {\'a}\IeC {\ae }tlun}{3}
+\contentsline {section}{\numberline {4}Fl\IeC {\ae }\IeC {\dh }irit og sau\IeC {\dh }ak\IeC {\'o}\IeC {\dh }i}{3}
+\contentsline {section}{\numberline {5}Pr\IeC {\'o}fanir}{4}
+\contentsline {section}{\numberline {6}Lokaor\IeC {\dh }}{4}
